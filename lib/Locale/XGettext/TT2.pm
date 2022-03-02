@@ -19,6 +19,7 @@
 # USA.
 
 package Locale::XGettext::TT2;
+$Locale::XGettext::TT2::VERSION = '0.7';
 
 use strict;
 
